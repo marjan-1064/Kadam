@@ -1,0 +1,52 @@
+/* Sunny Beach Day - Color Palette Variables */
+:root {
+  /* Brand Palette */
+  --color-teal-dark: #0f1e1b;   /* Main Text, Dark Headers, Footers */
+  --color-turquoise: #2A9D8F;    /* Primary Brand Color, Buttons, Highlights */
+  --color-saffron: #E9C46A;      /* Star Ratings, Warm Badges, Banners */
+  --color-sandy-brown: #F4A261;  /* Secondary Accents, Hover States */
+  --color-burnt-sienna: #E76F51; /* Action Buttons (Buy Now), Sale Tags, Alerts */
+
+  /* Functional Layout Colors */
+  --primary: var(--color-turquoise);
+  --primary-hover: #238377;
+  --secondary: var(--color-sandy-brown);
+  --cta: var(--color-burnt-sienna);
+  --cta-hover: #d25b3e;
+  
+  --bg-main: #f8f9fa;
+  --bg-surface: #ffffff;
+  --text-main: var(--color-teal-dark);
+  --text-muted: #6c757d;
+  --border-color: #e2e8f0;
+
+  /* Typography & Basics */
+  --font-main: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --radius: 8px;
+  --shadow: 0 4px 12px rgba(38, 70, 83, 0.08);
+}
+
+/* Global Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-main);
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  line-height: 1.5;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

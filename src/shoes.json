@@ -1,0 +1,1184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Men Classic Sneakers",
+      "category": "men",
+      "type": "sneakers",
+      "price": 4500,
+      "rating": 4.5,
+      "reviews": 128,
+      "image": [
+        "https://i.pinimg.com/736x/5b/24/42/5b244298ee10bb8475c011a63743e5a5.jpg",
+        "https://i.pinimg.com/1200x/02/30/8c/02308cc61eb7bbb5e0910b80863f28b7.jpg",
+        "https://i.pinimg.com/1200x/02/30/8c/02308cc61eb7bbb5e0910b80863f28b7.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Men Classic Sneakers is a stylish and versatile men footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable mesh and durable synthetic leather construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh and durable synthetic leather",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Men Running Shoes",
+      "category": "men",
+      "type": "running",
+      "price": 5200,
+      "rating": 4.7,
+      "reviews": 186,
+      "image": [
+        "https://i.pinimg.com/736x/ac/1d/41/ac1d41a342664bb032143951e6db9e99.jpg",
+        "https://i.pinimg.com/1200x/ce/17/2c/ce172c88580425d180bab5fac3d33eea.jpg",
+        "https://i.pinimg.com/1200x/02/30/8c/02308cc61eb7bbb5e0910b80863f28b7.jpg"
+      ],
+      "brand": "Adidas",
+      "description": "Men Running Shoes is a stylish and versatile men footwear choice designed for daily workouts, training sessions, and active everyday wear. It features a lightweight engineered mesh with a flexible synthetic upper construction for a balance of durability, comfort, and everyday wearability. The design includes lightweight cushioning, flexible construction, breathable panels, and a supportive outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "lightweight engineered mesh with a flexible synthetic upper",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Men Casual Shoes",
+      "category": "men",
+      "type": "casual",
+      "price": 4800,
+      "rating": 4.3,
+      "reviews": 94,
+      "image": [
+        "https://i.pinimg.com/736x/55/fa/73/55fa738b42fc9b296396d21037d356de.jpg",
+        "https://i.pinimg.com/736x/78/6b/c4/786bc4fffcbff2fdd74b52cfcecdf598.jpg",
+        "https://i.pinimg.com/736x/b1/6e/b0/b16eb0408b3c182323fb2116a699c34d.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Men Casual Shoes is a stylish and versatile men footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable textile and durable synthetic overlays construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable textile and durable synthetic overlays",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Men Leather Loafers",
+      "category": "men",
+      "type": "loafers",
+      "price": 6500,
+      "rating": 4.6,
+      "reviews": 112,
+      "image": [
+        "https://i.pinimg.com/736x/26/9d/0a/269d0a3e861bc7cc74d16f5c33ac4544.jpg",
+        "https://i.pinimg.com/736x/b4/8d/23/b48d2386e67afeb81c35d6f3a8eca8bb.jpg",
+        "https://i.pinimg.com/736x/ce/60/9d/ce609d74308b2dd13e69430a9e90c647.jpg"
+      ],
+      "brand": "Bata",
+      "description": "Men Leather Loafers is a stylish and versatile men footwear choice designed for office wear, formal occasions, and smart-casual outfits. It features a smooth faux leather with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, polished finish, flexible sole, and refined silhouette, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "smooth faux leather with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Men Formal Shoes",
+      "category": "men",
+      "type": "formal",
+      "price": 7200,
+      "rating": 4.8,
+      "reviews": 203,
+      "image": [
+        "https://i.pinimg.com/736x/e7/17/43/e717435aab66b6e7c6f49d28cce731dc.jpg",
+        "https://i.pinimg.com/1200x/02/30/8c/02308cc61eb7bbb5e0910b80863f28b7.jpg",
+        "https://i.pinimg.com/1200x/02/30/8c/02308cc61eb7bbb5e0910b80863f28b7.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Men Formal Shoes is a stylish and versatile men footwear choice designed for office wear, formal occasions, and smart-casual outfits. It features a polished faux leather with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, polished finish, flexible sole, and refined silhouette, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "polished faux leather with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Men High Top Sneakers",
+      "category": "men",
+      "type": "sneakers",
+      "price": 5800,
+      "rating": 4.4,
+      "reviews": 76,
+      "image": [
+        "https://i.pinimg.com/1200x/79/09/d1/7909d100077cafbf326307e770bf2cc1.jpg",
+        "https://i.pinimg.com/736x/dd/d5/df/ddd5df63822476d9e91387a561e286a9.jpg",
+        "https://i.pinimg.com/1200x/f9/c9/77/f9c9776c2b0b230f9c2b93244ba84100.jpg"
+      ],
+      "brand": "Adidas",
+      "description": "Men High Top Sneakers is a stylish and versatile men footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable mesh and durable synthetic leather construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh and durable synthetic leather",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Men White Sneakers",
+      "category": "men",
+      "type": "sneakers",
+      "price": 4900,
+      "rating": 4.7,
+      "reviews": 165,
+      "image": [
+        "https://i.pinimg.com/736x/a4/93/00/a49300c930c8539077cd5a0a8c7f731e.jpg",
+        "https://i.pinimg.com/1200x/16/27/df/1627dfab11e95f0523b36a191764e33d.jpg",
+        "https://i.pinimg.com/736x/8b/79/1f/8b791f193b6111fae1b5b994d6ba4aa9.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Men White Sneakers is a stylish and versatile men footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable mesh and durable synthetic leather construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh and durable synthetic leather",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Men Black Trainers",
+      "category": "men",
+      "type": "trainers",
+      "price": 5500,
+      "rating": 4.2,
+      "reviews": 68,
+      "image": [
+        "https://i.pinimg.com/736x/27/4b/b8/274bb8a525a2f7c41cb63a9d8362c0fd.jpg",
+        "https://i.pinimg.com/1200x/3f/43/8b/3f438ba2b46d6c80f09b257ded9599c8.jpg",
+        "https://i.pinimg.com/1200x/af/1c/a4/af1ca4250ea3160792d09ac2d54d31cf.jpg"
+      ],
+      "brand": "Bata",
+      "description": "Men Black Trainers is a stylish and versatile men footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Men Sport Sneakers",
+      "category": "men",
+      "type": "sneakers",
+      "price": 6200,
+      "rating": 4.6,
+      "reviews": 137,
+      "image": [
+        "https://i.pinimg.com/1200x/2a/eb/1d/2aeb1dff6eda30ca0eef15259d0a8bfb.jpg",
+        "https://i.pinimg.com/1200x/6d/d7/05/6dd705d76047946091ad1a2abbe4eb4f.jpg",
+        "https://i.pinimg.com/736x/2f/32/e8/2f32e8b96fd0fd127efe391b63b03664.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Men Sport Sneakers is a stylish and versatile men footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable mesh and durable synthetic leather construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh and durable synthetic leather",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    
+   
+    {
+      "id": 13,
+      "name": "Men Walking Shoes",
+      "category": "men",
+      "type": "walking",
+      "price": 5100,
+      "rating": 4.4,
+      "reviews": 91,
+      "image": [
+        "https://i.pinimg.com/1200x/75/0c/09/750c09a4607d8cd449c8e45dcf79e8d3.jpg",
+        "https://i.pinimg.com/1200x/d5/2d/91/d52d919afe2ab6c2cf506792e85bb141.jpg",
+        "https://i.pinimg.com/736x/6a/93/3e/6a933e43511df6f9fc7fe48f16483439.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Men Walking Shoes is a stylish and versatile men footwear choice designed for daily workouts, training sessions, and active everyday wear. It features a lightweight mesh with supportive synthetic construction construction for a balance of durability, comfort, and everyday wearability. The design includes lightweight cushioning, flexible construction, breathable panels, and a supportive outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "lightweight mesh with supportive synthetic construction",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Men Outdoor Shoes",
+      "category": "men",
+      "type": "outdoor",
+      "price": 7600,
+      "rating": 4.7,
+      "reviews": 154,
+      "image": [
+        "https://i.pinimg.com/1200x/57/18/ab/5718ab3e98961814a8a50b4e7e9f047d.jpg",
+        "https://i.pinimg.com/736x/86/91/69/869169ad4f783dc7a584fd649685f297.jpg",
+        "https://i.pinimg.com/736x/2b/b7/51/2bb751e6de926e77ddb53dc5fa3ebb12.jpg"
+      ],
+      "brand": "Adidas",
+      "description": "Men Outdoor Shoes is a stylish and versatile men footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Men Classic Boots",
+      "category": "men",
+      "type": "boots",
+      "price": 8500,
+      "rating": 4.6,
+      "reviews": 118,
+      "image": [
+        "https://i.pinimg.com/736x/c0/c1/8c/c0c18c5573f6a372f3256134f5484c13.jpg",
+        "https://i.pinimg.com/1200x/17/89/36/1789364cac2e3a5eaf72e4a9e88fb315.jpg",
+        "https://i.pinimg.com/1200x/58/16/3c/58163ce76594af267d7d8a019abf1f18.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Men Classic Boots is a stylish and versatile men footwear choice designed for everyday outings, casual styling, and cooler-weather wear. It features a durable synthetic leather with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes supportive construction, soft lining, durable outsole, and a secure fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic leather with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Men Chelsea Boots",
+      "category": "men",
+      "type": "boots",
+      "price": 9200,
+      "rating": 4.9,
+      "reviews": 241,
+      "image": [
+        "https://i.pinimg.com/736x/76/02/96/7602969cc9acdbd1a83af84151d397aa.jpg",
+        "https://i.pinimg.com/1200x/5e/43/05/5e43052d6bc65101848effc0af5a57f8.jpg",
+        "https://i.pinimg.com/736x/4b/d8/f7/4bd8f71e6edc77bce8115f5ab9caf973.jpg"
+      ],
+      "brand": "Bata",
+      "description": "Men Chelsea Boots is a stylish and versatile men footwear choice designed for everyday outings, casual styling, and cooler-weather wear. It features a durable synthetic leather with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes supportive construction, soft lining, durable outsole, and a secure fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic leather with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Men Hiking Shoes",
+      "category": "men",
+      "type": "hiking",
+      "price": 7800,
+      "rating": 4.5,
+      "reviews": 126,
+      "image": [
+        "https://i.pinimg.com/736x/bc/7e/74/bc7e74d3aa1527b81a130016ba30515e.jpg",
+        "https://i.pinimg.com/1200x/0e/7a/21/0e7a21d817df37c0558c03c8ae96657f.jpg",
+        "https://i.pinimg.com/1200x/03/9d/90/039d90d5fbe0109971a4ff8804aca18f.jpg"
+       
+      ],
+      "brand": "Nike",
+      "description": "Men Hiking Shoes is a stylish and versatile men footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Men Premium Sneakers",
+      "category": "men",
+      "type": "sneakers",
+      "price": 8900,
+      "rating": 4.8,
+      "reviews": 197,
+      "image": [
+        "https://i.pinimg.com/1200x/73/fa/6b/73fa6b758840d791b9b0f8e03a3de04d.jpg",
+        "https://i.pinimg.com/1200x/9c/76/c7/9c76c71ce48c710da57e539b29adc179.jpg",
+        "https://i.pinimg.com/736x/b9/50/6b/b9506bff61a87d7f7748fc97e2245506.jpg"
+      ],
+      "brand": "Adidas",
+      "description": "Men Premium Sneakers is a stylish and versatile men footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable mesh and durable synthetic leather construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh and durable synthetic leather",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Women White Sneakers",
+      "category": "women",
+      "type": "sneakers",
+      "price": 4800,
+      "rating": 4.7,
+      "reviews": 176,
+      "image": [
+        "https://i.pinimg.com/1200x/b8/94/38/b894385fea496d13e11e269e80d3ff3c.jpg",
+        "https://i.pinimg.com/736x/08/21/68/082168eab4956d7e345d9fbcf3225dd5.jpg",
+        "https://i.pinimg.com/1200x/42/81/6c/42816cc2f0fb428c5d2aa70cee34d276.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Women White Sneakers is a stylish and versatile women footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable mesh and durable synthetic leather construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh and durable synthetic leather",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Women Running Shoes",
+      "category": "women",
+      "type": "running",
+      "price": 5300,
+      "rating": 4.6,
+      "reviews": 143,
+      "image": [
+        "https://i.pinimg.com/1200x/4c/5c/dc/4c5cdcbba528d2ebd3c24d36f77a00ab.jpg",
+        "https://i.pinimg.com/1200x/9f/68/6a/9f686aac291c2c695c87e869801b4227.jpg",
+          "https://i.pinimg.com/736x/d4/41/b6/d441b67da18c36ab886f3f017ac4856e.jpg"
+      ],
+      "brand": "Bata",
+      "description": "Women Running Shoes is a stylish and versatile women footwear choice designed for daily workouts, training sessions, and active everyday wear. It features a lightweight engineered mesh with a flexible synthetic upper construction for a balance of durability, comfort, and everyday wearability. The design includes lightweight cushioning, flexible construction, breathable panels, and a supportive outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "lightweight engineered mesh with a flexible synthetic upper",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Women Casual Sneakers",
+      "category": "women",
+      "type": "casual",
+      "price": 4500,
+      "rating": 4.4,
+      "reviews": 97,
+      "image": [
+        "https://i.pinimg.com/736x/c9/26/72/c926728ce1c705b0ea0dcae72bcccae2.jpg",
+        "https://i.pinimg.com/736x/26/c6/8e/26c68eb00bd3b06bf9fdc3e817689c93.jpg",
+        "https://i.pinimg.com/736x/25/58/13/255813bf9021a983bf584c34bdf256b9.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Women Casual Sneakers is a stylish and versatile women footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable textile and durable synthetic overlays construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable textile and durable synthetic overlays",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Women Platform Shoes",
+      "category": "women",
+      "type": "platform",
+      "price": 5900,
+      "rating": 4.5,
+      "reviews": 121,
+      "image": [
+        "https://i.pinimg.com/736x/43/44/6d/43446daf390c14962830842a4ab863df.jpg",
+        "https://i.pinimg.com/736x/37/78/6d/37786de0c834927c1fb59130d77cafb4.jpg",
+        "https://i.pinimg.com/736x/6d/ea/fa/6deafaf0ae5d5ef671faf74b6f3cd95a.jpg"
+      ],
+      "brand": "Adidas",
+      "description": "Women Platform Shoes is a stylish and versatile women footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Women Heels",
+      "category": "women",
+      "type": "heels",
+      "price": 6200,
+      "rating": 4.8,
+      "reviews": 188,
+      "image": [
+        "https://i.pinimg.com/1200x/30/60/87/3060876a8cb17e934ce3b30ef5500c4f.jpg",
+        "https://i.pinimg.com/1200x/45/2b/34/452b34f2ed3e1b029db601f16dbc2fd6.jpg",
+        "https://i.pinimg.com/736x/56/eb/12/56eb127de476cd486c5dfbc7794260fd.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Women Heels is a stylish and versatile women footwear choice designed for office wear, formal occasions, and smart-casual outfits. It features a premium faux leather with a smooth inner lining construction for a balance of durability, comfort, and everyday wearability. The design includes a comfortable footbed, stable heel construction, smooth finish, and an elegant silhouette, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "premium faux leather with a smooth inner lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Women Sandals",
+      "category": "women",
+      "type": "sandals",
+      "price": 3500,
+      "rating": 4.3,
+      "reviews": 84,
+      "image": [
+        "https://i.pinimg.com/736x/df/4a/63/df4a63adacbf3de7ef3aa01d9d32ef39.jpg",
+        "https://i.pinimg.com/736x/4c/1d/e4/4c1de41741ddb33d0a6af1499a722072.jpg",
+        "https://i.pinimg.com/1200x/64/79/ed/6479edf59d36d46de3f986983ef692ee.jpg"
+      ],
+      "brand": "Bata",
+      "description": "Women Sandals is a stylish and versatile women footwear choice designed for summer outings, casual days, and warm-weather styling. It features a durable synthetic straps with a cushioned footbed construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, secure straps, lightweight construction, and flexible sole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic straps with a cushioned footbed",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Women Flat Shoes",
+      "category": "women",
+      "type": "flats",
+      "price": 3900,
+      "rating": 4.5,
+      "reviews": 106,
+      "image": [
+        "https://i.pinimg.com/1200x/0b/6f/61/0b6f61b74a36d14f41e3ceea2352a102.jpg",
+        "https://i.pinimg.com/736x/95/9a/41/959a41ec7790ffdbb5357350e1c33a64.jpg",
+        "https://i.pinimg.com/736x/ee/5e/31/ee5e313307cfe112d4ceb58b7ef8f265.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Women Flat Shoes is a stylish and versatile women footwear choice designed for everyday wear, casual outings, and versatile styling. It features a soft faux leather with a comfortable textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "soft faux leather with a comfortable textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Women Loafers",
+      "category": "women",
+      "type": "loafers",
+      "price": 5100,
+      "rating": 4.6,
+      "reviews": 132,
+      "image": [
+        "https://i.pinimg.com/736x/1f/21/f8/1f21f8750b3ba93e282fb233ac2c9808.jpg",
+          "https://i.pinimg.com/736x/0a/c5/86/0ac586e97b5ed90d7e5fd0c2eff80a7a.jpg",
+        "https://i.pinimg.com/736x/c1/83/6b/c1836b8aa3bfa0792d3593917996f211.jpg"
+      ],
+      "brand": "Adidas",
+      "description": "Women Loafers is a stylish and versatile women footwear choice designed for office wear, formal occasions, and smart-casual outfits. It features a smooth faux leather with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, polished finish, flexible sole, and refined silhouette, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "smooth faux leather with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Women Ankle Boots",
+      "category": "women",
+      "type": "boots",
+      "price": 7200,
+      "rating": 4.7,
+      "reviews": 157,
+      "image": [
+        "https://i.pinimg.com/1200x/54/6e/43/546e43c05be35c47f37246f99cd56f09.jpg",
+        "https://i.pinimg.com/1200x/32/89/ee/3289eec51e1d45a2e8f2702758d32db6.jpg",
+        "https://i.pinimg.com/736x/bd/51/40/bd514074c422cede259771c9e002914b.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Women Ankle Boots is a stylish and versatile women footwear choice designed for everyday outings, casual styling, and cooler-weather wear. It features a durable synthetic leather with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes supportive construction, soft lining, durable outsole, and a secure fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic leather with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Women Chelsea Boots",
+      "category": "women",
+      "type": "boots",
+      "price": 7800,
+      "rating": 4.5,
+      "reviews": 115,
+      "image": [
+        "https://i.pinimg.com/1200x/d3/1b/99/d31b99b07c41daeeb12af1b28f8e18b5.jpg",
+        "https://i.pinimg.com/736x/50/8d/d4/508dd4fe99bca152711c8dfe2ed0cd1b.jpg",
+        "https://i.pinimg.com/736x/1e/49/34/1e49341ceede825443199ae101e05e02.jpg"
+      ],
+      "brand": "Bata",
+      "description": "Women Chelsea Boots is a stylish and versatile women footwear choice designed for everyday outings, casual styling, and cooler-weather wear. It features a durable synthetic leather with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes supportive construction, soft lining, durable outsole, and a secure fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic leather with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    
+    {
+      "id": 32,
+      "name": "Women Fashion Sneakers",
+      "category": "women",
+      "type": "sneakers",
+      "price": 5800,
+      "rating": 4.7,
+      "reviews": 163,
+      "image": [
+        "https://i.pinimg.com/736x/4f/98/43/4f98431b6f4a8d8f1952a348d55345d5.jpg",
+        "https://i.pinimg.com/736x/7c/43/c0/7c43c0f5a0b39eecc67a9d1a2e1daee3.jpg",
+        "https://i.pinimg.com/736x/e7/fb/58/e7fb581de0c1b9125ee34fc4b15c2003.jpg"
+      ],
+      "brand": "Bata",
+      "description": "Women Fashion Sneakers is a stylish and versatile women footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable mesh and durable synthetic leather construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh and durable synthetic leather",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Women Premium Shoes",
+      "category": "women",
+      "type": "premium",
+      "price": 7500,
+      "rating": 4.9,
+      "reviews": 227,
+      "image": [
+        "https://i.pinimg.com/736x/e7/44/2c/e7442c239bb32298de5e327f3a85ed14.jpg",
+        "https://i.pinimg.com/736x/f3/30/a1/f330a1bd73951f30143380a53495840f.jpg",
+        "https://i.pinimg.com/736x/9c/39/b5/9c39b56b69b880a8bfa6968a3be23bdc.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Women Premium Shoes is a stylish and versatile women footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Women Classic Boots",
+      "category": "women",
+      "type": "boots",
+      "price": 8200,
+      "rating": 4.6,
+      "reviews": 139,
+      "image": [
+        "https://i.pinimg.com/736x/02/33/54/023354bb7be25994ad4573d5434c79ec.jpg",
+        "https://i.pinimg.com/736x/5b/74/a0/5b74a073e8b1cc0bb7d1887a24a88503.jpg",
+        "https://i.pinimg.com/736x/09/3e/b6/093eb6d008062512441de200b34e7506.jpg"
+      ],
+      "brand": "Adidas",
+      "description": "Women Classic Boots is a stylish and versatile women footwear choice designed for everyday outings, casual styling, and cooler-weather wear. It features a durable synthetic leather with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes supportive construction, soft lining, durable outsole, and a secure fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic leather with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Kids Colorful Sneakers",
+      "category": "kids",
+      "type": "sneakers",
+      "price": 2800,
+      "rating": 4.6,
+      "reviews": 92,
+      "image": [
+        "https://i.pinimg.com/736x/73/bd/cd/73bdcd89eb96920bc4f4dee2f72334ac.jpg",
+        "https://i.pinimg.com/736x/f8/70/a8/f870a8bcec559bffc2c3f333869cb89b.jpg",
+        "https://i.pinimg.com/736x/ba/cd/d7/bacdd77e8270527b430bfaf6f36495ad.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Kids Colorful Sneakers is a stylish and versatile kids footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable mesh and durable synthetic leather construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh and durable synthetic leather",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Kids Running Shoes",
+      "category": "kids",
+      "type": "running",
+      "price": 3200,
+      "rating": 4.5,
+      "reviews": 81,
+      "image": [
+        "https://i.pinimg.com/1200x/ef/89/1b/ef891b57363eaa1d133a0723a33e1929.jpg",
+        "https://i.pinimg.com/1200x/0b/65/67/0b6567801efc26f187f81eb35d94872c.jpg",
+        "https://i.pinimg.com/736x/0e/ed/64/0eed64ec54b2cf42a15b64082c69e3e0.jpg"
+      ],
+      "brand": "Bata",
+      "description": "Kids Running Shoes is a stylish and versatile kids footwear choice designed for daily workouts, training sessions, and active everyday wear. It features a lightweight engineered mesh with a flexible synthetic upper construction for a balance of durability, comfort, and everyday wearability. The design includes lightweight cushioning, flexible construction, breathable panels, and a supportive outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "lightweight engineered mesh with a flexible synthetic upper",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Kids Casual Shoes",
+      "category": "kids",
+      "type": "casual",
+      "price": 2500,
+      "rating": 4.3,
+      "reviews": 64,
+      "image": [
+        "https://i.pinimg.com/1200x/ce/d3/13/ced3131a81df7e9346621ba51509f93f.jpg",
+        "https://i.pinimg.com/1200x/8f/07/6e/8f076e155798ba71b3bfc221b0c606a9.jpg",
+        "https://i.pinimg.com/1200x/02/30/8c/02308cc61eb7bbb5e0910b80863f28b7.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Kids Casual Shoes is a stylish and versatile kids footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable textile and durable synthetic overlays construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable textile and durable synthetic overlays",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Kids Sport Sneakers",
+      "category": "kids",
+      "type": "sports",
+      "price": 3500,
+      "rating": 4.7,
+      "reviews": 116,
+      "image": [
+        "https://i.pinimg.com/1200x/27/bc/b9/27bcb9055bcd1d8a81d359974a0d2af7.jpg",
+        "https://i.pinimg.com/1200x/09/f1/4a/09f14a9de7b4e8419a5920cac827bb39.jpg",
+        "https://i.pinimg.com/1200x/c7/b4/cc/c7b4ccc853de000f33060f3e11cd4e8d.jpg"
+      ],
+      "brand": "Adidas",
+      "description": "Kids Sport Sneakers is a stylish and versatile kids footwear choice designed for daily workouts, training sessions, and active everyday wear. It features a breathable mesh with supportive synthetic overlays construction for a balance of durability, comfort, and everyday wearability. The design includes lightweight cushioning, flexible construction, breathable panels, and a supportive outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh with supportive synthetic overlays",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Kids School Shoes",
+      "category": "kids",
+      "type": "school",
+      "price": 2900,
+      "rating": 4.4,
+      "reviews": 73,
+      "image": [
+        "https://i.pinimg.com/1200x/f3/f8/86/f3f886ea5b60a788f54e11e44f6e7d5f.jpg",
+        "https://i.pinimg.com/736x/85/a9/36/85a936be4d19765796f1378e40e487eb.jpg",
+        "https://i.pinimg.com/1200x/e6/ac/13/e6ac13d80e166acc0ca8a8312af7c059.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Kids School Shoes is a stylish and versatile kids footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Kids Light Sneakers",
+      "category": "kids",
+      "type": "sneakers",
+      "price": 3100,
+      "rating": 4.6,
+      "reviews": 88,
+      "image": [
+        "https://i.pinimg.com/1200x/97/36/1f/97361f4e338b968bba9de4588f41b586.jpg",
+        "https://i.pinimg.com/736x/29/83/48/2983487fff0e1bf93a6eee2a7ac8693e.jpg",
+        "https://i.pinimg.com/736x/6e/3e/f0/6e3ef0a62d13509e4b5f8723db3206a2.jpg"
+      ],
+      "brand": "Bata",
+      "description": "Kids Light Sneakers is a stylish and versatile kids footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable mesh and durable synthetic leather construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh and durable synthetic leather",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Kids High Top Shoes",
+      "category": "kids",
+      "type": "high-top",
+      "price": 3600,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": [
+        "https://i.pinimg.com/1200x/9c/7b/a6/9c7ba64e6ae9e62de63020a6a6e385f9.jpg",
+        "https://i.pinimg.com/1200x/71/f6/26/71f62617d481e270495da9fa1809153c.jpg",
+        "https://i.pinimg.com/736x/d9/8e/40/d98e403561418ce6bb7d994b9d30449d.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Kids High Top Shoes is a stylish and versatile kids footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Kids Slip On",
+      "category": "kids",
+      "type": "slip-on",
+      "price": 2700,
+      "rating": 4.2,
+      "reviews": 57,
+      "image": [
+        "https://i.pinimg.com/1200x/90/23/5a/90235a13a61a4ac95c5f213183e04579.jpg",
+        "https://i.pinimg.com/1200x/02/30/8c/02308cc61eb7bbb5e0910b80863f28b7.jpg",
+        "https://i.pinimg.com/1200x/02/30/8c/02308cc61eb7bbb5e0910b80863f28b7.jpg"
+      ],
+      "brand": "Adidas",
+      "description": "Kids Slip On is a stylish and versatile kids footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Kids Canvas Shoes",
+      "category": "kids",
+      "type": "canvas",
+      "price": 2400,
+      "rating": 4.4,
+      "reviews": 63,
+      "image": [
+        "https://i.pinimg.com/736x/80/d2/df/80d2dfb2d424e113c31fcdce020de0df.jpg",
+        "https://i.pinimg.com/736x/ee/53/d4/ee53d40fb17b684814dbc37a90d96585.jpg",
+        "https://i.pinimg.com/736x/27/2f/ef/272fef8f838d4ed4ceaec61df94be183.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Kids Canvas Shoes is a stylish and versatile kids footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Kids Basketball Shoes",
+      "category": "kids",
+      "type": "basketball",
+      "price": 3900,
+      "rating": 4.8,
+      "reviews": 134,
+      "image": [
+        "https://i.pinimg.com/1200x/14/22/53/1422538ec86fa81da2db138bb95cbd3c.jpg",
+        "https://i.pinimg.com/736x/6b/58/cd/6b58cd56c649bbbb5432da5fa44eee01.jpg",
+        "https://i.pinimg.com/736x/8f/8a/1e/8f8a1e92af745ca1792bbe879ece22af.jpg"
+      ],
+      "brand": "Bata",
+      "description": "Kids Basketball Shoes is a stylish and versatile kids footwear choice designed for basketball sessions, court training, and active streetwear. It features a durable synthetic upper with breathable mesh panels construction for a balance of durability, comfort, and everyday wearability. The design includes responsive cushioning, ankle support, durable construction, and a traction-focused outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic upper with breathable mesh panels",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Kids Walking Shoes",
+      "category": "kids",
+      "type": "walking",
+      "price": 3000,
+      "rating": 4.5,
+      "reviews": 76,
+      "image": [
+        "https://i.pinimg.com/1200x/34/61/7a/34617a530c806900e0a57da1e6f11872.jpg",
+        "https://i.pinimg.com/736x/50/be/a6/50bea637699d44fcdfed9d790beee517.jpg",
+        "https://i.pinimg.com/1200x/9c/a1/38/9ca138b5a33f37696d87e8d52eb52a42.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Kids Walking Shoes is a stylish and versatile kids footwear choice designed for daily workouts, training sessions, and active everyday wear. It features a lightweight mesh with supportive synthetic construction construction for a balance of durability, comfort, and everyday wearability. The design includes lightweight cushioning, flexible construction, breathable panels, and a supportive outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "lightweight mesh with supportive synthetic construction",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Kids Outdoor Shoes",
+      "category": "kids",
+      "type": "outdoor",
+      "price": 3800,
+      "rating": 4.6,
+      "reviews": 91,
+      "image": [
+        "https://i.pinimg.com/736x/ec/d5/48/ecd54855d7d1c6fae33d9c6c9c1f3816.jpg",
+        "https://i.pinimg.com/736x/fc/f3/dd/fcf3ddafdbc5956a203020fb85ae2bdc.jpg",
+        "https://i.pinimg.com/1200x/9f/e7/7d/9fe77da2904b95c52f70f3094e6a0fd2.jpg"
+      ],
+      "brand": "Adidas",
+      "description": "Kids Outdoor Shoes is a stylish and versatile kids footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Kids Fashion Sneakers",
+      "category": "kids",
+      "type": "sneakers",
+      "price": 3400,
+      "rating": 4.7,
+      "reviews": 109,
+      "image": [
+        "https://i.pinimg.com/736x/da/96/75/da9675ed0b94e99b62c395af7e039d8f.jpg",
+        "https://i.pinimg.com/736x/ab/de/c7/abdec7c2d0b84605d8857b4207477a89.jpg",
+        "https://i.pinimg.com/1200x/26/3b/74/263b74fc917a7bf34b67ea083fcf0687.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Kids Fashion Sneakers is a stylish and versatile kids footwear choice designed for everyday wear, casual outings, and versatile styling. It features a breathable mesh and durable synthetic leather construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh and durable synthetic leather",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    
+    {
+      "id": 49,
+      "name": "Kids Velcro Shoes",
+      "category": "kids",
+      "type": "velcro",
+      "price": 2600,
+      "rating": 4.3,
+      "reviews": 58,
+      "image": [
+        "https://i.pinimg.com/736x/00/36/53/003653ee630c6609c67faa138ff67cf0.jpg",
+        "https://i.pinimg.com/736x/96/69/55/9669558a781342b2e1bd553f1401d7f4.jpg",
+        "https://i.pinimg.com/1200x/a7/98/c9/a798c9931df90e27008df24527f27845.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Kids Velcro Shoes is a stylish and versatile kids footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    
+    {
+      "id": 51,
+      "name": "Sports Running Pro",
+      "category": "sports",
+      "type": "running",
+      "price": 6500,
+      "rating": 4.8,
+      "reviews": 218,
+      "image": [
+        "https://i.pinimg.com/736x/5b/24/42/5b244298ee10bb8475c011a63743e5a5.jpg",
+        "https://i.pinimg.com/1200x/02/30/8c/02308cc61eb7bbb5e0910b80863f28b7.jpg",
+        "https://i.pinimg.com/1200x/02/30/8c/02308cc61eb7bbb5e0910b80863f28b7.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Sports Running Pro is a stylish and versatile sports footwear choice designed for daily workouts, training sessions, and active everyday wear. It features a lightweight engineered mesh with a flexible synthetic upper construction for a balance of durability, comfort, and everyday wearability. The design includes lightweight cushioning, flexible construction, breathable panels, and a supportive outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "lightweight engineered mesh with a flexible synthetic upper",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Sports Training Shoes",
+      "category": "sports",
+      "type": "training",
+      "price": 5900,
+      "rating": 4.6,
+      "reviews": 156,
+      "image": [
+        "https://i.pinimg.com/1200x/e0/33/21/e033215aa9f30185815caffe60845f81.jpg",
+        "https://i.pinimg.com/1200x/02/30/8c/02308cc61eb7bbb5e0910b80863f28b7.jpg",
+        "https://i.pinimg.com/1200x/02/30/8c/02308cc61eb7bbb5e0910b80863f28b7.jpg"
+      ],
+      "brand": "Bata",
+      "description": "Sports Training Shoes is a stylish and versatile sports footwear choice designed for daily workouts, training sessions, and active everyday wear. It features a breathable mesh with supportive synthetic overlays construction for a balance of durability, comfort, and everyday wearability. The design includes lightweight cushioning, flexible construction, breathable panels, and a supportive outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh with supportive synthetic overlays",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Sports Basketball Pro",
+      "category": "sports",
+      "type": "basketball",
+      "price": 7200,
+      "rating": 4.9,
+      "reviews": 267,
+      "image": [
+        "https://i.pinimg.com/736x/b9/50/6b/b9506bff61a87d7f7748fc97e2245506.jpg",
+        "https://i.pinimg.com/1200x/9c/76/c7/9c76c71ce48c710da57e539b29adc179.jpg",
+        "https://i.pinimg.com/1200x/73/fa/6b/73fa6b758840d791b9b0f8e03a3de04d.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Sports Basketball Pro is a stylish and versatile sports footwear choice designed for basketball sessions, court training, and active streetwear. It features a durable synthetic upper with breathable mesh panels construction for a balance of durability, comfort, and everyday wearability. The design includes responsive cushioning, ankle support, durable construction, and a traction-focused outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic upper with breathable mesh panels",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Sports Football Boots",
+      "category": "sports",
+      "type": "football",
+      "price": 6800,
+      "rating": 4.7,
+      "reviews": 189,
+      "image": [
+         "https://i.pinimg.com/1200x/d5/2d/91/d52d919afe2ab6c2cf506792e85bb141.jpg",
+          "https://i.pinimg.com/1200x/75/0c/09/750c09a4607d8cd449c8e45dcf79e8d3.jpg",
+        "https://i.pinimg.com/736x/6a/93/3e/6a933e43511df6f9fc7fe48f16483439.jpg"
+      ],
+      "brand": "Adidas",
+      "description": "Sports Football Boots is a stylish and versatile sports footwear choice designed for football practice, match days, and outdoor training. It features a durable synthetic upper with a textured finish for grip construction for a balance of durability, comfort, and everyday wearability. The design includes a supportive fit, textured upper, lightweight construction, and a traction-oriented sole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic upper with a textured finish for grip",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Sports Tennis Shoes",
+      "category": "sports",
+      "type": "tennis",
+      "price": 6100,
+      "rating": 4.5,
+      "reviews": 113,
+      "image": [
+          "https://i.pinimg.com/736x/86/91/69/869169ad4f783dc7a584fd649685f297.jpg",
+        "https://i.pinimg.com/736x/2b/b7/51/2bb751e6de926e77ddb53dc5fa3ebb12.jpg",
+        "https://i.pinimg.com/1200x/57/18/ab/5718ab3e98961814a8a50b4e7e9f047d.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Sports Tennis Shoes is a stylish and versatile sports footwear choice designed for daily workouts, training sessions, and active everyday wear. It features a breathable mesh with reinforced synthetic panels construction for a balance of durability, comfort, and everyday wearability. The design includes lightweight cushioning, flexible construction, breathable panels, and a supportive outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh with reinforced synthetic panels",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Sports Gym Trainers",
+      "category": "sports",
+      "type": "trainers",
+      "price": 5600,
+      "rating": 4.6,
+      "reviews": 147,
+      "image": [
+        "https://i.pinimg.com/1200x/17/89/36/1789364cac2e3a5eaf72e4a9e88fb315.jpg",
+        "https://i.pinimg.com/1200x/58/16/3c/58163ce76594af267d7d8a019abf1f18.jpg",
+          "https://i.pinimg.com/736x/c0/c1/8c/c0c18c5573f6a372f3256134f5484c13.jpg"
+      ],
+      "brand": "Bata",
+      "description": "Sports Gym Trainers is a stylish and versatile sports footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Sports Hiking Shoes",
+      "category": "sports",
+      "type": "hiking",
+      "price": 7900,
+      "rating": 4.8,
+      "reviews": 172,
+      "image": [
+        "https://i.pinimg.com/1200x/03/9d/90/039d90d5fbe0109971a4ff8804aca18f.jpg",
+         "https://i.pinimg.com/736x/bc/7e/74/bc7e74d3aa1527b81a130016ba30515e.jpg",
+        "https://i.pinimg.com/1200x/0e/7a/21/0e7a21d817df37c0558c03c8ae96657f.jpg"
+      ],
+      "brand": "Nike",
+      "description": "Sports Hiking Shoes is a stylish and versatile sports footwear choice designed for everyday wear, casual outings, and versatile styling. It features a durable synthetic materials with a soft textile lining construction for a balance of durability, comfort, and everyday wearability. The design includes a cushioned footbed, flexible outsole, breathable construction, and a comfortable everyday fit, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "durable synthetic materials with a soft textile lining",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    
+    {
+      "id": 59,
+      "name": "Sports Sprint Shoes",
+      "category": "sports",
+      "type": "running",
+      "price": 6300,
+      "rating": 4.7,
+      "reviews": 138,
+      "image": [
+        "https://i.pinimg.com/1200x/16/27/df/1627dfab11e95f0523b36a191764e33d.jpg",
+       "https://i.pinimg.com/736x/a4/93/00/a49300c930c8539077cd5a0a8c7f731e.jpg",
+        "https://i.pinimg.com/736x/8b/79/1f/8b791f193b6111fae1b5b994d6ba4aa9.jpg"
+      ],
+      "brand": "Gucci",
+      "description": "Sports Sprint Shoes is a stylish and versatile sports footwear choice designed for daily workouts, training sessions, and active everyday wear. It features a lightweight engineered mesh with a flexible synthetic upper construction for a balance of durability, comfort, and everyday wearability. The design includes lightweight cushioning, flexible construction, breathable panels, and a supportive outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "lightweight engineered mesh with a flexible synthetic upper",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Sports Performance Shoes",
+      "category": "sports",
+      "type": "sports",
+      "price": 7500,
+      "rating": 4.9,
+      "reviews": 231,
+      "image": [
+         "https://i.pinimg.com/1200x/af/1c/a4/af1ca4250ea3160792d09ac2d54d31cf.jpg",
+      "https://i.pinimg.com/736x/27/4b/b8/274bb8a525a2f7c41cb63a9d8362c0fd.jpg",
+        "https://i.pinimg.com/1200x/3f/43/8b/3f438ba2b46d6c80f09b257ded9599c8.jpg"
+       ],
+      "brand": "Bata",
+      "description": "Sports Performance Shoes is a stylish and versatile sports footwear choice designed for daily workouts, training sessions, and active everyday wear. It features a breathable mesh with supportive synthetic overlays construction for a balance of durability, comfort, and everyday wearability. The design includes lightweight cushioning, flexible construction, breathable panels, and a supportive outsole, while the clean silhouette makes it easy to pair with a range of outfits. A practical choice for customers looking for reliable comfort with a polished, modern look.",
+      "material": "breathable mesh with supportive synthetic overlays",
+      "features": [
+        "Lightweight construction",
+        "Comfortable cushioned footbed",
+        "Durable outsole",
+        "Breathable and supportive design"
+      ]
+    }
+  ]
+}
