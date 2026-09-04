@@ -57,7 +57,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/Kadam">
       <CartProvider>
         <Navbar />
         <Routes>
