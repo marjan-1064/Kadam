@@ -1,11 +1,11 @@
 /* Sunny Beach Day - Color Palette Variables */
 :root {
   /* Brand Palette */
-  --color-teal-dark: #0f1e1b;   /* Main Text, Dark Headers, Footers */
-  --color-turquoise: #2A9D8F;    /* Primary Brand Color, Buttons, Highlights */
-  --color-saffron: #E9C46A;      /* Star Ratings, Warm Badges, Banners */
-  --color-sandy-brown: #F4A261;  /* Secondary Accents, Hover States */
-  --color-burnt-sienna: #E76F51; /* Action Buttons (Buy Now), Sale Tags, Alerts */
+  --color-teal-dark: #0f1e1b;   
+  --color-turquoise: #2A9D8F;    
+  --color-saffron: #E9C46A;      
+  --color-sandy-brown: #F4A261;  
+  --color-burnt-sienna: #E76F51; 
 
   /* Functional Layout Colors */
   --primary: var(--color-turquoise);

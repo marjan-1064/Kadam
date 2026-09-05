@@ -85,7 +85,7 @@ const Bata = (props) => {
                                 className="collectioncard"
                                 onClick={() => {
                                     handlecardclick(arr);
-                                    navigate("/CardView", { state: { product: arr } });
+                                    navigate("/CardView");
                                 }}
                             >
                                 <img 
