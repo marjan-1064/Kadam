@@ -1,4 +1,5 @@
 
+
 import Navbar from './Components/Navbar'
 import Home from './Components/Home'
 import CategoryHome from './Components/CategoryHome'
@@ -7,8 +8,8 @@ import HomeOff from './Components/HomeOff'
 import Homelastsection from './Components/Homelastsection'
 import Cartpages from './Components/Cartpages'
 import About from './Components/About'
-import { useEffect } from 'react'
-// import Shoes from './Components/Shoes'
+import Footer from './Components/Footer'
+
 import './App.css'
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import shoe from './shoes.json'
@@ -57,6 +58,30 @@ function App() {
 
   return (
     <>
+    
+<a 
+  href="https://github.com/marjan-1064/Kadam" 
+  target="_blank" 
+  rel="noreferrer"
+  style={{
+    position: "fixed",
+    bottom: "15px",
+    right: "15px",
+    backgroundColor: "rgba(45, 82, 75, 0.85)",
+    color: "#E9C46A",
+    padding: "6px 12px",
+    borderRadius: "20px",
+    fontSize: "11px",
+    fontWeight: "bold",
+    textDecoration: "none",
+    boxShadow: "0 2px 8px rgba(0,0,0,0.2)",
+    backdropFilter: "blur(4px)",
+    zIndex: 9999,
+    border: "1px solid #E9C46A"
+  }}
+>
+  ⚡ Built by Marjan
+</a>
       <BrowserRouter basename="/Kadam">
       <CartProvider>
         <Navbar />
@@ -111,6 +136,7 @@ function App() {
             <Route path="/About" element={<About/>} />
         </Routes>
 </CartProvider>
+<Footer/>
       </BrowserRouter>
 
     </>

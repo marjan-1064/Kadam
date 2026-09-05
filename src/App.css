@@ -1,80 +1,111 @@
-.Navbar{
-  height:60px;
-  background-color: var( --color-teal-dark);
-  display:flex;
-justify-content: space-between;
-  align-items: center;
-  color:#fff;
-/* border-bottom:1px solid white; */
+
+:root {
+  --color-teal-dark: #2D524B;
+  --color-teal-deeper: #1F3833;
+  --secondary: #E9C46A;
+  --text-light: #FFFFFF;
 }
-.navbb{
-  display:flex;
-  align-items: center;
-}
-.Logo{
-  font-size:25px;
-  font-weight: 500;
-  align-items: center;
-  padding:20px;
-  cursor:pointer;
-}
-.Logo span{
-  color:var(--secondary)
-}
-.nav-link-bar{
-  display:flex;
-  flex-direction:row;
+
+.Navbar {
+  height: 60px;
+  background-color: var(--color-teal-dark);
+  display: flex;
   justify-content: space-between;
- /* gap:40px; */
-  padding:20px;
-}
-.Nav-links{
-  display:flex;
-  flex-direction: row;
-  gap:30px;
-  padding:20px;
-  margin-right:25px;
-}
-.Searchbar{
-  display:flex;
-padding-right:20px;
-align-items: center;
-justify-self: end;                     
-  width: 200px;
-  margin-right:40px;
-  background-color: #fff;
-  border-radius: 10px;
-  height:35px;
-  /* padding:20px; */
-}
-.SearchInput{
-height:30px;
-border-top-left-radius: 10px;
-border-bottom-left-radius: 10px;
-outline:none;
-border:none;
-padding:5px;
-}
-
-.Searchbar i{
-  /* background-color: var(--secondary); */
-  color:var(--secondary);
-  font-size:20px;
-  height:20px;
   align-items: center;
-cursor:pointer;
- /* border:none; */
- outline:none;
+  color: var(--text-light);
+  border-bottom: 2px solid var(--secondary); /* Footer border ki tarah match karne ke liye */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
-.Nav-links a:hover{
-  color:var(--secondary);
-  transition:0.3s ease-in
+.navbb {
+  display: flex;
+  align-items: center;
 }
 
-.hamburger{
-  display:none;
-}  
+.Logo {
+  font-size: 25px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  cursor: pointer;
+  color: var(--text-light);
+  letter-spacing: 1.5px;
+}
+
+.Logo span {
+  color: var(--secondary);
+}
+
+.nav-link-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Nav-links {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  margin-right: 25px;
+}
+
+.Nav-links a {
+  color: var(--text-light);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease-in-out;
+}
+
+.Nav-links a:hover {
+  color: var(--secondary);
+}
+
+.Searchbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 220px;
+  margin-right: 20px;
+  background-color: var(--color-teal-deeper); /* Footer inputs se matching dark green */
+  border: 1px solid rgba(233, 196, 106, 0.4);
+  border-radius: 6px;
+  height: 36px;
+  padding: 0 10px;
+}
+
+.SearchInput {
+  height: 100%;
+  width: 100%;
+  background: transparent;
+  outline: none;
+  border: none;
+  color: var(--text-light);
+  font-size: 13px;
+}
+
+.SearchInput::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.Searchbar i {
+  color: var(--secondary);
+  font-size: 16px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.Searchbar i:hover {
+  transform: scale(1.1);
+}
+
+.hamburger {
+  display: none;
+  color: var(--secondary);
+  font-size: 22px;
+  cursor: pointer;
+}
 /* Home Component*/
 .Home  {
 width:100%;
